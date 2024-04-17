@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class MainGUI extends JFrame {
 
-    private JTextField textField1;
+    private JLabel NomeProgramma;
 
     public MainGUI() {
         setSize(100, 100);
